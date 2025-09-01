@@ -1,0 +1,32 @@
+{
+  "resources": [
+    {
+      "id": "1",
+      "title": "JavaScript: The Good Parts",
+      "link": "https://example.com/js-good-parts",
+      "category": "Video",
+      "description": "Douglas Crockford reveals the abundant good parts of JavaScript."
+    },
+    {
+      "id": "2",
+      "title": "Tailwind CSS",
+      "link": "https://tailwindcss.com",
+      "category": "Docs",
+      "description": "A utility-first CSS framework for rapidly building custom designs."
+    },
+    {
+      "id": "3",
+      "title": "React Documentation",
+      "link": "https://react.dev",
+      "category": "Docs",
+      "description": "Official React documentation with guides, API reference, and examples."
+    },
+    {
+      "id": "0e04",
+      "title": "react icons",
+      "url": "https://react-icons.github.io/react-icons",
+      "category": "Docs",
+      "description": "react icons u can use em by simply importing em into ur project "
+    }
+  ]
+}
