@@ -64,7 +64,7 @@ src/
 1. Clone repo:
 
    ```bash
-   git clone git@github.com:<your-username>/devvault.git
+   git clone git@github.com:abdelrahmanSheref101/DevVault.git
    cd devvault
    ```
 
